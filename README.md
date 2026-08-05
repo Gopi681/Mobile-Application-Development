@@ -158,8 +158,15 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Gopi Krishna V B
+**Gopi Krishna V B**
 
+M.Tech Graduate
+
+Python | Machine Learning | Cloud Computing | Data Analytics
+
+**GitHub:** https://github.com/Gopi681
+
+**LinkedIn:** www.linkedin.com/in/gopi-krishna-v-b-304384229
 
 
 ---
